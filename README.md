@@ -13,3 +13,5 @@ As the pandemic process continues, I think the use of masks should become widesp
 write a mask detection program that can facilitate this process. What I want from the program is that the
 camera detects the person and detects whether that person is wearing a mask. If there are people who do
 not wear masks, it is detected by the program and the authorities take action.
+
+(NOTE: I completed the project from start to finish by myself. And I'm also working on new projects.)
