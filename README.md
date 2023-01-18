@@ -14,6 +14,6 @@ write a mask detection program that can facilitate this process. What I want fro
 camera detects the person and detects whether that person is wearing a mask. If there are people who do
 not wear masks, it is detected by the program and the authorities take action.
 
-(NOTE : The descriptions of the codes are in the **mask_detection_webcam1.py** file.)
+(**NOTE :** The descriptions of the codes are in the **mask_detection_webcam1.py** file.)
 
-(NOTE : I completed the project from start to finish by myself. And I'm also working on new projects.)
+(**NOTE :** I completed the project from start to finish by myself. And I'm also working on new projects.)
