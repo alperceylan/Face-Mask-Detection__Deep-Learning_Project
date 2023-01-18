@@ -1,4 +1,4 @@
-# **Face Mask Detection Project**
+# **Face Mask Detection** Project
 
 You can find the detailed explanation in the "mask_detection_webcam1.py" folder.
 
